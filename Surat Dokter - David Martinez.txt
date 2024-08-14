@@ -1,0 +1,15 @@
+==============================================
+    Surat Dokter Dr. Vincent Halim, Sp.PD
+==============================================
+Dokter          : Dr. Vincent Halim, Sp.PD
+Nama Pasien     : David Martinez
+Umur            : 30 tahun
+Alamat          : Night City, USA
+
+Diagnosis       : TBC
+Tindakan        : Rawat Inap
+Dibuat Tanggal  : 15 - Juni - 2024 (Berlaku Selama 3 Hari)
+
+==== Untuk Informasi Lebih Lanjut Hubungi ====
+No Telepon  : 0895 - 3017 - 8423 
+Email       : JayaMedika@gmail.com
